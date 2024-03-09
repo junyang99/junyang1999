@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Ng",
+    "lastName": "Jun Yang",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/about.jpg",
+        "altText": "Ng Jun Yang photo"
+    }
+}

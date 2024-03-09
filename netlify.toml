@@ -1,0 +1,7 @@
+[build]
+  publish = ".next"
+  command = "npm run build"
+  command = "git submodule update --init --recursive && npm run build"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

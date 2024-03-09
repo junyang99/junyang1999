@@ -1,0 +1,95 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.svg",
+    "header": {
+        "type": "Header",
+        "headerVariant": "variant-c",
+        "isSticky": false,
+        "title": "About me",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "linkedin",
+                "label": "linkedin",
+                "url": "https://www.linkedin.com/in/ng-jun-yang-mkg/",
+                "icon": "linkedin"
+            },
+            {
+                "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/junyang99",
+                "icon": "github"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "full"
+            }
+        }
+    },
+    "footer": {
+        "type": "Footer",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/info",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "mailto: junyang.ng.2021@scis.smu.edu.sg",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "GitHub",
+                "url": "https://github.com/junyang99",
+                "altText": ""
+            }
+        ],
+        "contacts": {
+            "type": "ContactBlock",
+            "title": "Contact details",
+            "phoneNumber":"+86 18822810364",
+            "phoneAltText": "My phone number",
+            "email": "junyang.ng.2021@scis.smu.edu.sg",
+            "emailAltText": "My email",
+            "address": "Singapore Management University Year 3 Computing Student",
+            "addressAltText": "My address"
+        },
+        "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+            }
+        }
+    }
+}
