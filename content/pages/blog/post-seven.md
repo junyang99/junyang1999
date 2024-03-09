@@ -2,23 +2,16 @@
 type: PostLayout
 title: From Lion City to Dragon's Embrace, internship experience in Vietnam
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/post-4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
-date: '2024-01-01'
+date: '2023-08-28'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  A leap of faith outside my comfort bubble
+  Thrills of heights.. from hikes.
 featuredImage:
   type: ImageBlock
-  url: /images/post-4.jpg
+  url: /images/post_4.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
+  url: /images/post_4.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -117,7 +110,6 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
----
 
 Having spent my entire life in the secure and stable environment of Singapore, the decision to step out of my comfort zone for an internship in ASEAN was driven by a desire for personal and professional growth. In this blog, I share my transformative experiences at InvestIdea, highlighting the patient guidance of mentors like Phillip and my colleagues, who played pivotal roles in my past month here.
 
