@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: From Lion City to Dragon's Embrace, internship experience in Vietnam
+title: From Lion City to Dragon's Embrace, internship experience in vietnam
 colors: colors-a
 date: "2024-01-01"
 author: content/data/team/doris-soto.json
