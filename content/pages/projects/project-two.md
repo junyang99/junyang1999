@@ -23,6 +23,7 @@ Minimize the number of calls to the getElevation(x, y) function as a performance
 Showcase algorithmic ingenuity in summit detection.
 
 > “Highest in cohort”
+My thought-process behind developing this algorithm
 
 Part 1 - Random Search:
 In the initial phase, we allocate a portion of the threshold (0.1%) for Random Search, strategically dividing it into halves for a balanced approach with Local Search.
@@ -52,7 +53,7 @@ Worst Time Complexity:
 The recursive function demonstrates a worst-case time complexity of O(WH), ensuring efficiency in handling varying map dimensions.
 
 Outcome:
-SummitQuest stands as a testament to strategic search methodologies, achieving optimal high point detection with a meticulously crafted algorithm. Our collaborative efforts resulted in the highest recognition within the cohort.
+Summit seeker stands as a testament to strategic search methodologies, achieving optimal high point detection with a meticulously crafted algorithm. Our collaborative efforts resulted in the highest recognition within the cohort.
 
 Acknowledgment:
 Special thanks to my teammate Tao for the collaborative effort that contributed to the success of SummitQuest.
