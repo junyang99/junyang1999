@@ -21,18 +21,21 @@ Embark on a machine learning journey with the Facebook and Kaggle Engineering co
 
 Problem Definition: Understand the challenges faced by the online auction site, where human bidders are losing auctions to their software-controlled counterparts, leading to a decline in site usage.
 
-Tasks 1 - Data Analysis
+Tasks 1 - Data Analysis.
+
 Dive into the provided data from the online platform, examining bid behavior, frequency, and patterns to comprehend the dynamics of robot-generated bidding.
 
-Task 2 - Model Development
+Task 2 - Model Development.
+
 Utilize machine learning techniques to create a robust model capable of identifying bids placed by robots. Leverage behavioral data, including bid frequency over short periods, to enhance the model's accuracy.
 
-Task 3 - Evaluation
+Task 3 - Evaluation.
+
 Assess the model's effectiveness in flagging users exhibiting robot-like bidding behavior. Fine-tune the model to achieve optimal performance.
 
-Task 4 - Customer Happiness Restoration
-Contribute to rebuilding customer happiness by providing the site owners with an effective solution to eliminate computer-generated bidding from their auctions.
+Task 4 - Customer Happiness Restoration.
 
+Contribute to rebuilding customer happiness by providing the site owners with an effective solution to eliminate computer-generated bidding from their auctions.
 
 > “Completed the project with a private AUC score of 0.935 and a public AUC score of 0.8941 ”
 

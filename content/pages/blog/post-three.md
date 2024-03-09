@@ -11,7 +11,7 @@ featuredImage:
   url: /images/grab_1.jpg
   altText: Post thumbnail image
 media:
-  url: /images/grab_2.jpg
+  url: /images/grab_2.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
