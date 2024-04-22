@@ -5,7 +5,7 @@ colors: colors-a
 date: '2022-01-22'
 client: Ground Rules
 description: >-
-  Developing an Excel-based business dashboard for a café, integrating sensitivity and trade-off analyses. Utilizing data-driven insights to optimize operations, the dashboard facilitates strategic decision-making. Tracking key metrics, such as sales, inventory, and customer satisfaction, empowers the café to adapt and thrive in a dynamic market environment.Click [here](https://youtu.be/IWEYq8WRQIs) for walkthrough of the dashboard
+  Developing an Excel-based business dashboard for a café, integrating sensitivity and trade-off analyses. Utilizing data-driven insights to optimize operations, the dashboard facilitates strategic decision-making. Tracking key metrics, such as sales, inventory, and customer satisfaction, empowers the café to adapt and thrive in a dynamic market environment.
 featuredImage:
   type: ImageBlock
   url: /images/bg4.png
@@ -15,6 +15,7 @@ media:
   url: /images/bg4.png
   altText: Project image
 ---
+> Click [here](https://youtu.be/IWEYq8WRQIs) for walkthrough of the dashboard
 > Financial Projections for Sustainable Growth:
 Our project delved into the financial health of Ground Rules cafe, aiming to answer pivotal questions about its future. Through meticulous analysis and projections, we determined that achieving break-even status by February 2022 would require an unrealistic monthly growth rate of 117%. Instead, a more pragmatic approach suggests a sustainable monthly growth rate of 7%, positioning Ground Rules to break even by February 2023.
 
