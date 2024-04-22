@@ -5,14 +5,14 @@ colors: colors-a
 date: '2022-01-22'
 client: Ground Rules
 description: >-
-  Developing an Excel-based business dashboard for a café, integrating sensitivity and trade-off analyses. Utilizing data-driven insights to optimize operations, the dashboard facilitates strategic decision-making. Tracking key metrics, such as sales, inventory, and customer satisfaction, empowers the café to adapt and thrive in a dynamic market environment.
+  Developing an Excel-based business dashboard for a café, integrating sensitivity and trade-off analyses. Utilizing data-driven insights to optimize operations, the dashboard facilitates strategic decision-making. Tracking key metrics, such as sales, inventory, and customer satisfaction, empowers the café to adapt and thrive in a dynamic market environment.Click [here](https://youtu.be/IWEYq8WRQIs) for walkthrough of the dashboard
 featuredImage:
   type: ImageBlock
   url: /images/bg4.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg4.mp4
+  url: /images/bg4.png
   altText: Project image
 ---
 > Financial Projections for Sustainable Growth:
